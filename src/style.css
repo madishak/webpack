@@ -1,0 +1,13 @@
+ @font-face {
+   font-family: 'Indieflower';
+   src:  url('./Indieflower.woff2') format('woff2'),
+         url('./Indieflower.woff') format('woff');
+   font-weight: 600;
+   font-style: normal;
+ }
+
+.hello {
+    color: red;
+    font-family: 'Indieflower', Verdana, sans-serif;
+    background: url('./icon.jpg');
+}
